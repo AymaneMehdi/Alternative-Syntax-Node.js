@@ -1,1 +1,1 @@
-# Module-Alternative-Syntax-Node.js-
+Alternative Syntax : module
